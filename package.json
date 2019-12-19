@@ -1,6 +1,6 @@
 {
   "name": "generator-jhipster-login-page",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "JHipster blueprint Implementing the login page in its own route",
   "keywords": [
     "yeoman-generator",

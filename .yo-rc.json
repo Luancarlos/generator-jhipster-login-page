@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-blueprint": {
+    "promptValues": {
+      "githubName": "Luancarlos",
+      "authorName": "Luancarlos A. Rocha",
+      "authorEmail": "luanbam@hotmail.com",
+      "authorUrl": "not"
+    }
+  }
+}
